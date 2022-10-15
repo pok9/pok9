@@ -1,5 +1,3 @@
-# design-github
-
 <h1 align="center">Hi 👋, I'm Chanchai Ditthapan</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 <image  align="right" alt="Coding" width="150" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
