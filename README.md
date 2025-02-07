@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chanchai Ditthapan</h1>
+<h1 align="center">Hi 👋, I'm Pok</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 <image  align="right" alt="Coding" width="150" src="https://media.tenor.com/NqURjAGH6GYAAAAd/cat-code.gif">
 
