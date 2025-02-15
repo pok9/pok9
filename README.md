@@ -36,4 +36,4 @@
 
 -->
 
-<img alt="OIIAOIIA" src="https://c.tenor.com/oSa7v6mDpIwAAAAd/tenor.gif" width="100%">
+<img alt="" src="https://c.tenor.com/9RCIDZjkhBsAAAAC/tenor.gif" width="100%">
