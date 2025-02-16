@@ -38,6 +38,6 @@
 
 
 <div align="center" >
-  <img alt="" src="https://c.tenor.com/9RCIDZjkhBsAAAAC/tenor.gif" width="31.5%" >
+  <img alt="" src="https://c.tenor.com/9RCIDZjkhBsAAAAC/tenor.gif" width="50%" >
   <img src="https://leetcard.jacoblin.cool/pokhappy1999?ext=heatmap" alt="Snake animation" />
 </div>
