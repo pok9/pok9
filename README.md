@@ -36,4 +36,8 @@
 
 -->
 
-<img alt="" src="https://c.tenor.com/9RCIDZjkhBsAAAAC/tenor.gif" width="100%">
+
+<div align="center" >
+  <img alt="" src="https://c.tenor.com/9RCIDZjkhBsAAAAC/tenor.gif" width="75%">
+  <img src="https://leetcard.jacoblin.cool/pokhappy1999?ext=heatmap" alt="Snake animation" />
+</div>
